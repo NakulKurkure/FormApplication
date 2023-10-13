@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+
+.btne {
+    width: 302px;
+    height: 35px;
+    margin-left: 10px;
+    background-color: rgb(245, 6, 6);
+    color: rgb(169, 247, 24);
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

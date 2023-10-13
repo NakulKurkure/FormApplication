@@ -1,0 +1,28 @@
+.navbar {
+    background-color: rgb(10, 10, 100);
+    height: 57px;
+    position: sticky;
+    /* align-items: center; */
+}
+
+.addUser {
+    background-color: red;
+}
+
+.nav {
+    color: red;
+}
+
+.navbar ul {
+    /* text-align: center; */
+    display: flex;
+    flex-direction: row;
+    /* //Horizentally elements */
+    justify-content: center;
+    list-style: none;
+}
+
+li {
+    margin: 18px 0px;
+    padding: 0px 30px;
+}

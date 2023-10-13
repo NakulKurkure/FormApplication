@@ -1,0 +1,42 @@
+.form {
+    background-color: aqua;
+    height: 600px;
+    text-align: center;
+}
+
+.header {
+    font-size: large;
+    margin-top: 2px;
+    /* text-align: center; */
+}
+
+h3 {
+    font-size: medium;
+}
+
+.name {
+    width: 500px;
+    height: 30px;
+}
+
+
+/* 
+.m0 {
+    margin: 2px;
+} */
+
+.box {
+    margin: 16px;
+}
+
+.msg {
+    height: 123px;
+    width: 500px;
+}
+
+.sub {
+    margin: 3px;
+    padding: 5px;
+    width: 500px;
+    height: 40px;
+}
